@@ -1,0 +1,1 @@
+This is a short project on creating a Wordpress Theme using PHP.
